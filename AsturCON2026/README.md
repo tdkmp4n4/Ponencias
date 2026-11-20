@@ -1,0 +1,2 @@
+# AsturCON2026 - Zero Trust dicen, Zero Hardening encontramos
+Diapositivas de la charla en AsturCON.tech 2026 donde se hace una recopilación de 8 años de trabajo en mi tesis doctoral en la que validamos la hipótesis de partida: las redes empresariales no se encuentran adecuadamente protegidas debido a deficiencias en las personas y procesos, no solamente por culpa de la tecnología. Asimismo, se profundiza en potenciales soluciones al problema así como sus ventajas e inconvenientes, además de presentar líneas de trabajo futuro.
